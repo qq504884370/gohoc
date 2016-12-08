@@ -1,0 +1,47 @@
+.big_center{
+	background-color:#f0f0f0;
+	padding-top:40px;
+	min-width:1200px;
+}
+.center{
+	margin:0 auto;
+	width:1180px;
+	height:592px;
+	background:url("/img/contact/bg.png");
+	padding-top:40px;
+	padding-left:20px;
+	position:relative;
+}
+span{
+	font-family:Microsoft YaHei;
+}
+.center_img{
+	margin-top:40px;
+	margin-left:130px;
+}
+.yinying
+{
+	border: 1px solid #cfcccc;
+	/*-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;*/
+	-webkit-box-shadow: #cfcccc 0px 5px 10px;
+	-moz-box-shadow: #cfcccc 0px 5px 10px;
+	
+	width:330px;
+	height:343px;
+	background-color:#fff;
+	position:absolute;
+	top:90px;left:680px;
+}
+.yinying span{
+	font-size:12px;
+	margin-left:25px;
+	line-height:22px;
+}
+.yinying a{
+	font-size:12px;
+	text-decoration:none;
+	color:#000;
+	font-family:Microsoft YaHei;
+}
